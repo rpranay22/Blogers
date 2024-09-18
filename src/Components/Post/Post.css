@@ -1,0 +1,14 @@
+.post {
+  width: 50vw;
+  height: 20vh;
+  overflow: hidden;
+  margin: 20px;
+  background-color: rgb(163, 163, 219);
+}
+.head {
+  font-size: 20px;
+}
+p {
+  overflow: hidden;
+  height: 5vh;
+}
